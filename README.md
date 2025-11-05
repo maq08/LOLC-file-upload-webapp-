@@ -1,7 +1,3 @@
-Got it 💪 — here’s your **complete README.md** in **one single Markdown block**, continuous and perfectly formatted.
-You can copy this directly into your project’s `README.md` file — no cuts, no breaks.
-
----
 
 ````markdown
 # 🏦 LOLC File Upload Web App
