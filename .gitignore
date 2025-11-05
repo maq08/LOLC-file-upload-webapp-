@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-uploads/temp/*
-uploads/permanent/*
-*.db
